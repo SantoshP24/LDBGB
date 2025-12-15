@@ -1,9 +1,4 @@
 # 🚀 LDGBG: Local-Density Granular-Ball Generation
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
-
 A **Python implementation of Local-Density Granular-Ball Generation (LDGBG)** for granular computing and classification research.
 
 ---
